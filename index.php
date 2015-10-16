@@ -53,7 +53,7 @@
 								<div class="form-group">
 										<label class="col-sm-3 control-label">Name:</label>
 										<div class="col-sm-5">
-												<input type="text" class="form-control" maxlength="30" name="name" placeholder="First Name"/>
+												<input type="text" class="form-control" maxlength="30" name="name" placeholder="John Doe"/>
 										</div>
 								</div>
 
@@ -61,7 +61,7 @@
 								<div class="form-group">
 										<label class="col-sm-3 control-label">Street:</label>
 										<div class="col-sm-5">
-												<input type="text" class="form-control" maxlength="30" name="street" placeholder="Last Name"/>
+												<input type="text" class="form-control" maxlength="30" name="street" placeholder="123 Main Street"/>
 										</div>
 								</div>
 								<div class="form-group">
